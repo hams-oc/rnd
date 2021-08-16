@@ -1,0 +1,3 @@
+{
+  "ignore": ["common_data/pikachu-stat.json", "common_data/favorite-pokemons-stat.json"]
+}
