@@ -32,4 +32,7 @@ query ExampleQuery {
 ```
 ## TODO
 Continue to iterate and improve
-- Remove common_data to use DB instead
+- Remove common_data and use DB instead
+- Add additional GraphQL queries
+- CI/CD via GitHub Actions
+- Deploy to AWS
