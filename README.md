@@ -1,6 +1,6 @@
 # About
 ## Purpose
-The purpose of this codebase is to do the following for fun and learning  Nodejs, Typescript, and GraphQL:
+The purpose of this branch is to do the following for fun and learning  Nodejs, Typescript, and GraphQL:
 - Pull Pikachu’s height and weight from: https://pokeapi.co/.
 - Pull 5 favorite Pokemon’s height and weight from the API.
 - Create an interface in GraphQL to be able to pull heights and weights for one or more Pokemon(s).
