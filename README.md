@@ -1,5 +1,5 @@
 # About
-Pet Project
+My experimental pet project
 ## Purpose
 The purpose of this branch is to do the following for fun and learning  Nodejs, Typescript, and GraphQL:
 - Pull Pikachu’s height and weight from: https://pokeapi.co/.
