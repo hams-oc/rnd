@@ -32,3 +32,4 @@ query ExampleQuery {
 ```
 ## TODO
 Continue to iterate and improve
+- Remove common_data to use DB instead
