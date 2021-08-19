@@ -34,5 +34,6 @@ query ExampleQuery {
 Continue to iterate and improve
 - Remove common_data and use DB instead
 - Add additional GraphQL queries
+- Add Unit tests
 - CI/CD via GitHub Actions
 - Deploy to AWS
