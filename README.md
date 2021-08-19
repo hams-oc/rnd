@@ -6,7 +6,7 @@ The purpose of this branch is to do the following for fun and learning  Nodejs, 
 - Create an interface in GraphQL to be able to pull heights and weights for one or more Pokemon(s).
 - Return mean, median, and mode from the interface  created in the previous item.
 
-## GraphQL example usage
+## GraphQL example query
 ```
 query ExampleQuery {
   getPokemons {
@@ -30,3 +30,5 @@ query ExampleQuery {
 
 }
 ```
+## TODO
+Continue to iterate and improve
