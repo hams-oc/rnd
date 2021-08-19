@@ -32,7 +32,7 @@ query ExampleQuery {
 }
 ```
 ## TODO
-Continue to iterate and improve
+Continue to iterate and improve on the following items:
 - Remove common_data and use DB instead
 - Add additional GraphQL queries
 - Add Unit tests
